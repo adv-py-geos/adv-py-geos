@@ -2,7 +2,7 @@
 
 Create a notebook that reads in your dataset. 
 
-Submit this notebook in a new directory. Include an environment.yml if needed. Here is a basic file:
+Submit this notebook in a new directory. Include an environment.yml if needed. Here is a basic file called `pong.yml`:
 
     name: pong
     channels:
