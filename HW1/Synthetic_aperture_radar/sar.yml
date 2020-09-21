@@ -1,0 +1,19 @@
+name: SAR
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda
+  - cmocean
+  - cartopy
+  - jupyterhub
+  - jupyter
+  - jupyterlab
+  - ipython
+  - numpy
+  - matplotlib
+  - xarray
+  - nc-time-axis
+  - jupyter_contrib_nbextensions
+  - mpl_toolkits
+prefix: /Users/dylan/documents/OCNG689/
