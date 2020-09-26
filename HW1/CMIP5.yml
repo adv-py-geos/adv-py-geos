@@ -1,0 +1,17 @@
+name: CMIP5
+channels: 
+  -  conda-forge
+  -  defaults
+dependencies:
+  -  conda
+  -  python=3.7
+  -  jupyterhub
+  -  jupyterlab
+  -  numpy
+  -  matplotlib
+  -  xarray
+  -  cartopy
+  -  hvplot 
+  -  cmocean
+  -  dask
+  
