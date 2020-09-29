@@ -8,4 +8,3 @@ dependencies:
   - jupyterlab
   - matplotlib
   - pandas
-prefix: D:\Anaconda\envs\irlag
