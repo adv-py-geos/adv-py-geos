@@ -1,0 +1,9 @@
+name: HadISST
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - xarray
+  - jupyter
+  - jupyterlab
+  - cmocean
