@@ -1,0 +1,17 @@
+name: Azure
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda
+  - python=3.7
+  - BeautifulSoup
+  - BlockBlobService
+  - xml
+  - defaultdict
+  - seaborn
+  - pandas
+  - jupyter
+  - jupyterlab
+  - numpy
+  - matplotlib
