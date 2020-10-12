@@ -5,12 +5,7 @@ channels:
 dependencies:
   - conda
   - python
-  - bs4
   - azure-storage-blob==2.1.0
-  - xml
-  - collections
-  - seaborn
-  - pandas
   - jupyter
   - jupyterlab
   - numpy
