@@ -1,11 +1,12 @@
-name: HadISST
+name: Azure
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - xarray
+  - conda
+  - python
+  - azure-storage-blob==2.1.0
   - jupyter
   - jupyterlab
-  - cmocean
-  - urllib
   - numpy
+  - matplotlib
