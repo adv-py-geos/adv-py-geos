@@ -7,6 +7,10 @@ dependencies:
   - jupyter
   - jupyterlab
   - cartopy
+  - folium
+  - ee
+  - geehydro
+  - geojson
   - cmocean
   - holoviews
   - geoviews
